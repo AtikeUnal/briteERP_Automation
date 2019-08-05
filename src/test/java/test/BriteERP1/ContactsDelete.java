@@ -1,8 +1,8 @@
-package Test.BriteERP1;
+package test.BriteERP1;
 
-import Utilities.BriteERPUtil;
-import Utilities.Sleep;
-import Utilities.VerificationUtils;
+import utilities.BriteERPUtil;
+import utilities.Sleep;
+import utilities.VerificationUtils;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -20,7 +20,7 @@ public class ContactsDelete {
 
         User should not be able to delete a  contact profile by clicking the "delete" button.
 
-        Test Steps:
+        test Steps:
 
         1) Navigate to the Application URL
         2) Click on "Contacts" link

@@ -1,6 +1,6 @@
-package Test.BriteERP1;
+package test.BriteERP1;
 
-import Utilities.BriteERPUtil;
+import utilities.BriteERPUtil;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

@@ -1,8 +1,8 @@
-package Test.BriteERP1;
+package test.BriteERP1;
 
-import Utilities.BriteERPUtil;
-import Utilities.Sleep;
-import Utilities.VerificationUtils;
+import utilities.BriteERPUtil;
+import utilities.Sleep;
+import utilities.VerificationUtils;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -21,10 +21,10 @@ public class Test2 {
 
     /*
 
-    BriteERP results Search Functionality Test Search  Company Name for
-                                          Test Search  Name for
-                                          Test Search  Tag for
-                                          Test Search  SalesPerson for
+    BriteERP results Search Functionality test Search  Company Name for
+                                          test Search  Name for
+                                          test Search  Tag for
+                                          test Search  SalesPerson for
     1-Open browser
     2-Go to http://54.148.96.210/web/login
     3- Login as an Inventory manager

@@ -1,7 +1,7 @@
-package Test.BriteERP2;
+package test.BriteERP2;
 
-import Utilities.BriteERPUtil;
-import Utilities.Sleep;
+import utilities.BriteERPUtil;
+import utilities.Sleep;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
